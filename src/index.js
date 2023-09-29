@@ -6,7 +6,8 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <h1>1º Fase Concluída</h1>
+      <h1>pq o pinheiro não se perde na floresta?...</h1>
+      <h2>pq ele tem uma pinha</h2>
       <Confetti />
     </div>
   );
