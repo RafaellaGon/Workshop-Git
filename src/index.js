@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>pq o pinheiro não se perde na floresta?...</h1>
-      <h2>pq ele tem uma pinha kkkkkkkkkkkkkkkk</h2>
+      <h2>pq ele tem uMA PINHA kkkkkkkkkkkkkkkk</h2>
       <Confetti />
     </div>
   );
